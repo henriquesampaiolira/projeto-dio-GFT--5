@@ -1,6 +1,0 @@
-Introdução ao Git e GitHub.
-
-
-Git é um sistema de controle de versões distribuído.
-
-GitHub é uma plataforma de hospedagem de código-fonte.
